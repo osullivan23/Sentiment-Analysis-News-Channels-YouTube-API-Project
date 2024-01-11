@@ -60,6 +60,12 @@ This project explores the relationship between sentiment and popularity in the Y
 - Natural Language Toolkit (nltk)
 - Pandas
 
+## Key Results
+- Title, Description, Comment sentiment for each News Channel
+- Distribution of views, comments, likes for each video
+- Plots showing sentiment vs views. Showing the sentiment which leads to the most views for each channel.
+- Word clouds showing the most used title words of each channel. Some use more distressing words than others, e.g. terror, bombing, kidnapping.
+
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed. Contributions are welcome!
 
