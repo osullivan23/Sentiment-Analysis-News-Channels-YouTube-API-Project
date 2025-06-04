@@ -44,7 +44,7 @@ This project explores the relationship between sentiment and popularity in the Y
    - Use the API documentation and a channel's unique ID to locate the data.
 
 4. **Authentication:**
-   - Include your API key in API requests for authentication, usually as a parameter in the request URL.
+   - Set an environment variable named `YT_API_KEY` containing your API key. The notebook reads this variable when building the API client.
 
 5. **Make HTTP Requests:**
    - Use Python code to make HTTP requests to the API's endpoint. Specify the HTTP method (usually GET) and provide required parameters.
